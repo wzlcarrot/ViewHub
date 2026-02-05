@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile default="true" name="Default" enabled="true" />
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="easylive-cloud-admin" />
+        <module name="easylive-web" />
+        <module name="easylive-admin" />
+        <module name="easylive-common" />
+        <module name="easylive-cloud-resource" />
+        <module name="easylive-cloud-gateway" />
+        <module name="easylive-cloud-base" />
+        <module name="easylive-cloud-web" />
+        <module name="easylive-cloud-common" />
+        <module name="easylive-cloud-interact" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="easylive" target="1.8" />
+      <module name="easylive-admin" target="1.8" />
+      <module name="easylive-cloud" target="1.8" />
+      <module name="easylive-cloud-admin" target="1.8" />
+      <module name="easylive-cloud-base" target="1.8" />
+      <module name="easylive-cloud-common" target="1.8" />
+      <module name="easylive-cloud-common (1)" target="1.8" />
+      <module name="easylive-cloud-common (2)" target="1.8" />
+      <module name="easylive-cloud-gateway" target="1.8" />
+      <module name="easylive-cloud-interact" target="1.8" />
+      <module name="easylive-cloud-resource" target="1.8" />
+      <module name="easylive-cloud-web" target="1.8" />
+      <module name="easylive-common" target="1.8" />
+      <module name="easylive-web" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+  <component name="JavacSettings">
+    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="easylive-admin" options="-parameters" />
+      <module name="easylive-cloud-admin" options="-parameters" />
+      <module name="easylive-cloud-base" options="-parameters" />
+      <module name="easylive-cloud-common" options="-parameters" />
+      <module name="easylive-cloud-common (1)" options="-parameters" />
+      <module name="easylive-cloud-common (2)" options="-parameters" />
+      <module name="easylive-cloud-gateway" options="-parameters" />
+      <module name="easylive-cloud-interact" options="-parameters" />
+      <module name="easylive-cloud-resource" options="-parameters" />
+      <module name="easylive-cloud-web" options="-parameters" />
+      <module name="easylive-common" options="-parameters" />
+      <module name="easylive-web" options="-parameters" />
+    </option>
+  </component>
+</project>

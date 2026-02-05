@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/b_project.iml" filepath="$PROJECT_DIR$/.idea/b_project.iml" />
+      <module fileurl="file://$PROJECT_DIR$/easylive/easylive.iml" filepath="$PROJECT_DIR$/easylive/easylive.iml" />
+      <module fileurl="file://$PROJECT_DIR$/easylive/easylive-admin/easylive-admin.iml" filepath="$PROJECT_DIR$/easylive/easylive-admin/easylive-admin.iml" />
+      <module fileurl="file://$PROJECT_DIR$/easylive-springcloud/easylive-cloud.iml" filepath="$PROJECT_DIR$/easylive-springcloud/easylive-cloud.iml" />
+      <module fileurl="file://$PROJECT_DIR$/easylive-springcloud/easylive-cloud-admin/easylive-cloud-admin.iml" filepath="$PROJECT_DIR$/easylive-springcloud/easylive-cloud-admin/easylive-cloud-admin.iml" />
+      <module fileurl="file://$PROJECT_DIR$/easylive-springcloud/easylive-cloud-base/easylive-cloud-base.iml" filepath="$PROJECT_DIR$/easylive-springcloud/easylive-cloud-base/easylive-cloud-base.iml" />
+      <module fileurl="file://$PROJECT_DIR$/easylive-springcloud/easylive-cloud-common/easylive-cloud-common.iml" filepath="$PROJECT_DIR$/easylive-springcloud/easylive-cloud-common/easylive-cloud-common.iml" />
+      <module fileurl="file://$PROJECT_DIR$/easylive-springcloud/easylive-cloud-gateway/easylive-cloud-gateway.iml" filepath="$PROJECT_DIR$/easylive-springcloud/easylive-cloud-gateway/easylive-cloud-gateway.iml" />
+      <module fileurl="file://$PROJECT_DIR$/easylive-springcloud/easylive-cloud-interact/easylive-cloud-interact.iml" filepath="$PROJECT_DIR$/easylive-springcloud/easylive-cloud-interact/easylive-cloud-interact.iml" />
+      <module fileurl="file://$PROJECT_DIR$/easylive-springcloud/easylive-cloud-resource/easylive-cloud-resource.iml" filepath="$PROJECT_DIR$/easylive-springcloud/easylive-cloud-resource/easylive-cloud-resource.iml" />
+      <module fileurl="file://$PROJECT_DIR$/easylive-springcloud/easylive-cloud-web/easylive-cloud-web.iml" filepath="$PROJECT_DIR$/easylive-springcloud/easylive-cloud-web/easylive-cloud-web.iml" />
+      <module fileurl="file://$PROJECT_DIR$/easylive/easylive-common/easylive-common.iml" filepath="$PROJECT_DIR$/easylive/easylive-common/easylive-common.iml" />
+      <module fileurl="file://$PROJECT_DIR$/easylive/easylive-web/easylive-web.iml" filepath="$PROJECT_DIR$/easylive/easylive-web/easylive-web.iml" />
+    </modules>
+  </component>
+</project>
